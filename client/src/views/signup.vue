@@ -7,7 +7,6 @@
             <v-flex xs12 sm4 elevation-6>
               <v-toolbar class="blue">
                 <v-toolbar-title class="white--text"><h4>Signup</h4></v-toolbar-title>
-                </v-toolbar-items>
               </v-toolbar>
               <v-card flat>
                 <v-card-text class="pt-4">
